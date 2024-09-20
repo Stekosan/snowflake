@@ -1,4 +1,4 @@
-# snowflake
+# Snowflake Memo and notes
 https://www.snowflake.com/en/
 
 🎉 Just completed my first badge on Snowflake's Hands-On Essentials: Data Warehousing Workshop! 
